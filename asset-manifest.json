@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/bridge/static/css/main.3f38ba9d.chunk.css",
+    "main.js": "/bridge/static/js/main.bb301134.chunk.js",
+    "main.js.map": "/bridge/static/js/main.bb301134.chunk.js.map",
+    "runtime-main.js": "/bridge/static/js/runtime-main.b600c227.js",
+    "runtime-main.js.map": "/bridge/static/js/runtime-main.b600c227.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/bridge/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.349bdbcf.chunk.js": "/bridge/static/js/2.349bdbcf.chunk.js",
+    "static/js/2.349bdbcf.chunk.js.map": "/bridge/static/js/2.349bdbcf.chunk.js.map",
+    "static/js/3.eadb84f2.chunk.js": "/bridge/static/js/3.eadb84f2.chunk.js",
+    "static/js/3.eadb84f2.chunk.js.map": "/bridge/static/js/3.eadb84f2.chunk.js.map",
+    "index.html": "/bridge/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/bridge/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.3f38ba9d.chunk.css.map": "/bridge/static/css/main.3f38ba9d.chunk.css.map",
+    "static/js/2.349bdbcf.chunk.js.LICENSE.txt": "/bridge/static/js/2.349bdbcf.chunk.js.LICENSE.txt",
+    "static/media/India-Church-Congregation-2.6dcf4272.jpg": "/bridge/static/media/India-Church-Congregation-2.6dcf4272.jpg",
+    "static/media/ashishJessica.53089d62.jpg": "/bridge/static/media/ashishJessica.53089d62.jpg",
+    "static/media/baptism_2.bb1b2ad5.jpg": "/bridge/static/media/baptism_2.bb1b2ad5.jpg",
+    "static/media/bible_1.c99a32b6.jpg": "/bridge/static/media/bible_1.c99a32b6.jpg",
+    "static/media/church-1958426_640_mod.32198879.jpg": "/bridge/static/media/church-1958426_640_mod.32198879.jpg",
+    "static/media/church-4850405_640_mod.674ec25b.jpg": "/bridge/static/media/church-4850405_640_mod.674ec25b.jpg",
+    "static/media/church-4911852_640_mod.12a1e249.jpg": "/bridge/static/media/church-4911852_640_mod.12a1e249.jpg",
+    "static/media/logo2.18741b9f.svg": "/bridge/static/media/logo2.18741b9f.svg",
+    "static/media/prayer-2544994_640_mod.4a648daf.jpg": "/bridge/static/media/prayer-2544994_640_mod.4a648daf.jpg",
+    "static/media/prayer_1.14a70e2b.jpg": "/bridge/static/media/prayer_1.14a70e2b.jpg",
+    "static/media/prayer_small.5ee53aa5.jpg": "/bridge/static/media/prayer_small.5ee53aa5.jpg",
+    "static/media/prayer_small_2_modified.dbdf467d.jpg": "/bridge/static/media/prayer_small_2_modified.dbdf467d.jpg",
+    "static/media/watchImage.d2ca2393.jpg": "/bridge/static/media/watchImage.d2ca2393.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b600c227.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.349bdbcf.chunk.js",
+    "static/css/main.3f38ba9d.chunk.css",
+    "static/js/main.bb301134.chunk.js"
+  ]
+}
